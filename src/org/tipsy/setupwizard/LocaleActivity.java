@@ -126,11 +126,6 @@ public class LocaleActivity extends BaseSetupWizardActivity {
     }
 
     @Override
-    protected int getTitleResId() {
-        return R.string.setup_welcome;
-    }
-
-    @Override
     protected int getIconResId() {
         return R.drawable.logo;
     }
