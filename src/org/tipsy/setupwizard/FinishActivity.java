@@ -98,12 +98,12 @@ public class FinishActivity extends BaseSetupWizardActivity {
         lp.gravity = Gravity.CENTER;
 
         final ImageView bglogo = new ImageView(this);
-        bglogo.setImageResource(R.drawable.carbon_bg_logo);
+        bglogo.setImageResource(R.drawable.tipsy_bg_logo);
         bglogo.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
         bglogo.setAlpha(0f);
 
         final ImageView logo = new ImageView(this);
-        logo.setImageResource(R.drawable.carbon_logo);
+        logo.setImageResource(R.drawable.tipsy_logo);
         logo.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
         logo.setAlpha(0f);
 
