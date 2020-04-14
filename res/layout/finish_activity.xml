@@ -50,6 +50,7 @@
         android:textSize="18sp"
         android:text="@string/finish_summary"
         app:layout_constraintBottom_toTopOf="@id/navigation_bar"
+        android:textColor="#e4e7e9"
         style="PageSummaryText" />
 
         <com.google.android.setupdesign.view.NavigationBar

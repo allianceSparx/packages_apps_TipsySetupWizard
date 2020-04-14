@@ -27,6 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:minHeight="16dip"
+	android:textColor="#e4e7e9" 
         style="@style/SpinnerItem" />
 
     <TextView

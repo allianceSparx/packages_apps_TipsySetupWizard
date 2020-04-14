@@ -49,6 +49,7 @@
                     android:paddingRight="@dimen/content_margin_right"
                     style="@style/PageSummaryText"
                     android:text="@string/services_explanation"
+		    android:textColor="#e4e7e9" 
                     android:clickable="true"/>
 
                 <LinearLayout

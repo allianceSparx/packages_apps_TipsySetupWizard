@@ -56,7 +56,8 @@
                     android:paddingLeft="@dimen/content_margin_left"
                     android:paddingRight="@dimen/content_margin_right"
                     android:paddingBottom="@dimen/summary_margin_bottom"
-                    android:text="@string/enable_mobile_data_summary" />
+                    android:text="@string/enable_mobile_data_summary"
+		    android:textColor="#e4e7e9" />
 
                 <include layout="@layout/divider" />
 

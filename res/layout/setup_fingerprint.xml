@@ -46,7 +46,8 @@
                     android:paddingLeft="@dimen/content_margin_left"
                     android:layout_marginBottom="@dimen/summary_margin_bottom"
                     android:paddingRight="@dimen/location_text_margin_right"
-                    android:text="@string/fingerprint_setup_summary" />
+                    android:text="@string/fingerprint_setup_summary"
+		    android:textColor="#e4e7e9" />
 
                 <TextView
                     android:layout_width="match_parent"
