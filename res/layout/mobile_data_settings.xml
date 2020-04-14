@@ -86,6 +86,7 @@
                         android:textSize="14sp"
                         android:layout_marginLeft="@dimen/carrier_text_margin_left"
                         android:text="@string/setup_mobile_data_no_service"
+			android:textColor="#e4e7e9"
                         android:maxLines="4" />
 
                     <Switch

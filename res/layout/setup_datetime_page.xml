@@ -62,7 +62,7 @@
                     android:minHeight="?android:attr/listPreferredItemHeight"
                     android:mode="twoLine"
                     android:clickable="true"
-                    android:background="?android:attr/selectableItemBackground"
+                    android:background="@color/page_background"
                     android:gravity="center_vertical">
 
                     <TextView
@@ -70,6 +70,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/setup_current_date"
+		        android:textColor="#e4e7e9"
                         style="@style/SpinnerItem" />
 
                     <TextView
@@ -79,6 +80,7 @@
                         android:layout_below="@id/date_title"
                         android:layout_alignStart="@id/date_title"
                         android:fontFamily="sans-serif-medium"
+			android:textColor="#e4e7e9"
                         style="@style/SpinnerItem" />
                 </TwoLineListItem>
 
@@ -89,7 +91,7 @@
                     android:minHeight="?android:attr/listPreferredItemHeight"
                     android:mode="twoLine"
                     android:clickable="true"
-                    android:background="?android:attr/selectableItemBackground"
+                    android:background="@color/page_background"
                     android:gravity="center_vertical">
 
                     <TextView
@@ -97,6 +99,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="@string/setup_current_time"
+			android:textColor="#e4e7e9"
                         style="@style/SpinnerItem" />
 
                     <TextView
@@ -106,6 +109,7 @@
                         android:layout_below="@id/time_title"
                         android:layout_alignStart="@id/time_title"
                         android:fontFamily="sans-serif-medium"
+			android:textColor="#e4e7e9"
                         style="@style/SpinnerItem" />
                 </TwoLineListItem>
 
