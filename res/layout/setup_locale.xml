@@ -33,7 +33,7 @@
         android:paddingRight="@dimen/content_margin_left"
         android:textSize="18sp"
         android:text="@string/welcome_summary"
-	android:textColor="#e4e7e9" 
+	    android:textColor="#e4e7e9" 
         style="PageSummaryText"/>
 
     <RelativeLayout android:layout_width="match_parent"

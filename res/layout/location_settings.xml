@@ -45,7 +45,7 @@
                     android:layout_marginBottom="@dimen/summary_margin_bottom"
                     android:paddingLeft="@dimen/content_margin_left"
                     android:paddingRight="@dimen/content_margin_right"
-		    android:textColor="#e4e7e9"
+		            android:textColor="#e4e7e9"
                     style="@style/PageSummaryText" />
 
                 <LinearLayout
@@ -80,7 +80,7 @@
                         android:layout_marginRight="@dimen/location_text_margin_right"
                         android:paddingBottom="@dimen/content_margin_bottom"
                         android:text="@string/location_access_summary"
-			android:textColor="#e4e7e9"
+			            android:textColor="#e4e7e9"
                         android:maxLines="5" />
 
                 </LinearLayout>
@@ -117,7 +117,7 @@
                         android:layout_marginRight="@dimen/location_text_margin_right"
                         android:paddingBottom="@dimen/content_margin_bottom"
                         android:text="@string/location_battery_saving"
-			android:textColor="#e4e7e9"
+			            android:textColor="#e4e7e9"
                         android:maxLines="5" />
 
                 </LinearLayout>
@@ -153,7 +153,7 @@
                         android:layout_marginRight="@dimen/location_text_margin_right"
                         android:paddingBottom="@dimen/content_margin_bottom"
                         android:text="@string/location_network"
-			android:textColor="#e4e7e9"
+			            android:textColor="#e4e7e9"
                         android:maxLines="5" />
 
                 </LinearLayout>

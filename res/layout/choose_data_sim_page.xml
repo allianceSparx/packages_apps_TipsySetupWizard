@@ -49,7 +49,7 @@
                     android:paddingRight="@dimen/content_margin_right"
                     android:paddingBottom="@dimen/summary_margin_bottom"
                     android:text="@string/choose_data_sim_summary"
-		    android:textColor="#e4e7e9" />
+		            android:textColor="#e4e7e9" />
 
                 <include layout="@layout/divider" />
 

@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:textSize="14sp"
-	android:textColor="#e4e7e9"
+	    android:textColor="#e4e7e9"
         android:layout_marginLeft="@dimen/carrier_text_margin_left"
         android:maxLines="4" />
 
